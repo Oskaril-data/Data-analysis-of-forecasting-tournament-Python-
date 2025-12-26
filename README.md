@@ -69,7 +69,7 @@ Technologies Used
 
 Project Structure
 
-├── 10h_work_test_code.py   # Main analysis script
+├── Datawork.ipynb   # Main analysis script
 ├── rct-a-daily-forecasts.csv      # (Input) Daily forecast logs
 ├── rct-a-questions-answers.csv    # (Input) Question metadata
 ├── rct-a-prediction-sets.csv      # (Input) User prediction history
